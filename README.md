@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @yadel-lopez
+- 💎 I'm specialized in .NET, Azure and Blazor
+- 👀 I’m interested in .NET, WASI, Azure, Blazor and MAUI.
+- 🌱 I’m currently learning MAUI.
+- 💞️ I’m looking to collaborate on any .NET, Azure repo.
+- 📫 How to reach me at yadellopez@microsoft.com
